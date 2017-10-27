@@ -1,4 +1,5 @@
-# Codes-from-my-masters-Projects
+# CPU Scheduling Using C Gaphics
+* This project was developed as a part of my master's coursework in 2012 *
 The project entitled “CPU Scheduling” is basically a program which simulates the following scheduling algorithms:
 First-Come First-served Scheduling, Round-Robin Scheduling, Priority Scheduling, Shortest Job First Scheduling.
 ## Deatiled documentation is available separately.
